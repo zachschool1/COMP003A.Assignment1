@@ -93,16 +93,16 @@
             Console.WriteLine("#89 Life insurance is boring, but also kind of interesting.");
             Console.WriteLine("#90 I want to learn how to do a backflip.");
 
-            Console.WriteLine("#91 ");
-            Console.WriteLine("#92 ");
-            Console.WriteLine("#93 ");
-            Console.WriteLine("#94 ");
-            Console.WriteLine("#95 ");
-            Console.WriteLine("#96 ");
-            Console.WriteLine("#97 ");
-            Console.WriteLine("#98 ");
-            Console.WriteLine("#99 ");
-            Console.WriteLine("#100 ");
+            Console.WriteLine("#91 I kind of don't actually. I am too old to hurt myself.");
+            Console.WriteLine("#92 I also want to learn how to swim.");
+            Console.WriteLine("#93 I want to go skydiving one time maybe.");
+            Console.WriteLine("#94 I think bunjee jumping could feel great to stretch my spine.");
+            Console.WriteLine("#95 Flamin' hot funyuns are my favorite chips.");
+            Console.WriteLine("#96 Arctic Freeze is the best gatorate flavor.");
+            Console.WriteLine("#97 Reese's cups are the best candy.");
+            Console.WriteLine("#98 I also like Rockaleta");
+            Console.WriteLine("#99 I like to play video games.");
+            Console.WriteLine("#100 I like to eat chicken wings.");
         }
     }
 }
