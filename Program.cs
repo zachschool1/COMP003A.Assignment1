@@ -49,16 +49,16 @@
             Console.WriteLine("#49 I am looking forward to learning different databases in the other classes");
             Console.WriteLine("#50 I have a small amount of experience with MongoDB.");
 
-            Console.WriteLine("#51 ");
-            Console.WriteLine("#52 ");
-            Console.WriteLine("#53 ");
-            Console.WriteLine("#54 ");
-            Console.WriteLine("#55 ");
-            Console.WriteLine("#56 ");
-            Console.WriteLine("#57 ");
-            Console.WriteLine("#58 ");
-            Console.WriteLine("#59 ");
-            Console.WriteLine("#60 ");
+            Console.WriteLine("#51 I like comedy movies.");
+            Console.WriteLine("#52 My favorite show is probably Community");
+            Console.WriteLine("#53 I don't think I have a favorite movie right now, but Interstellar was good, I saw that recently.");
+            Console.WriteLine("#54 One time I did that 23 & me thing, so my data is out there somewhere.");
+            Console.WriteLine("#55 I really can't think of much else.");
+            Console.WriteLine("#56 I like Dawn dish soap");
+            Console.WriteLine("#57 I don't like when my feet are cold.");
+            Console.WriteLine("#58 I have an older brother.");
+            Console.WriteLine("#59 My Mom's family has 3 dogs.");
+            Console.WriteLine("#60 I like to eat waffles.");
 
             Console.WriteLine("#61 ");
             Console.WriteLine("#62 ");
