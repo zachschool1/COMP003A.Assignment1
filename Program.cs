@@ -71,20 +71,20 @@
             Console.WriteLine("#69 I think lavendar is a great scent.");
             Console.WriteLine("#70 I began taking vitamins recently again.");
 
-            Console.WriteLine("#71 ");
-            Console.WriteLine("#72 ");
-            Console.WriteLine("#73 ");
-            Console.WriteLine("#74 ");
-            Console.WriteLine("#75 ");
-            Console.WriteLine("#76 ");
-            Console.WriteLine("#77 ");
-            Console.WriteLine("#78 ");
-            Console.WriteLine("#79 ");
-            Console.WriteLine("#80 ");
+            Console.WriteLine("#71 I cut my own hair.");
+            Console.WriteLine("#72 I think it turned out okay.");
+            Console.WriteLine("#73 My favorite number is 7.");
+            Console.WriteLine("#74 I used to really like playing Guitar Hero as a kid.");
+            Console.WriteLine("#75 I can type like 80 words a minute.");
+            Console.WriteLine("#76 I like to listen to music sometimes, but I dont have much time recently.");
+            Console.WriteLine("#77 77 is a good number too.");
+            Console.WriteLine("#78 I guess I'm a virgo.");
+            Console.WriteLine("#79 I was told that's not a great thing, mostly by my wife.");
+            Console.WriteLine("#80 I like to drink lemonade.");
 
             Console.WriteLine("#81 ");
             Console.WriteLine("#82 ");
-            Console.WriteLine("#883 ");
+            Console.WriteLine("#83 ");
             Console.WriteLine("#84 ");
             Console.WriteLine("#85 ");
             Console.WriteLine("#86 ");
@@ -103,17 +103,6 @@
             Console.WriteLine("#98 ");
             Console.WriteLine("#99 ");
             Console.WriteLine("#100 ");
-
-            Console.WriteLine("#1 ");
-            Console.WriteLine("#2 ");
-            Console.WriteLine("#3 ");
-            Console.WriteLine("#4 ");
-            Console.WriteLine("#5 ");
-            Console.WriteLine("#6 ");
-            Console.WriteLine("#7 ");
-            Console.WriteLine("#8 ");
-            Console.WriteLine("#9 ");
-            Console.WriteLine("#10 ");
         }
     }
 }
