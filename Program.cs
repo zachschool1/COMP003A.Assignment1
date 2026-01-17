@@ -27,17 +27,17 @@
             Console.WriteLine("#19 She made my kids 49ers fans.");
             Console.WriteLine("#20 That's okay. I just like them to be happy");
 
-            Console.WriteLine("#31 ");
-            Console.WriteLine("#32 ");
-            Console.WriteLine("#33 ");
-            Console.WriteLine("#34 ");
-            Console.WriteLine("#35 ");
-            Console.WriteLine("#36 ");
-            Console.WriteLine("#37 ");
-            Console.WriteLine("#38 ");
-            Console.WriteLine("#39 ");
-            Console.WriteLine("#40 ");
-
+            Console.WriteLine("#31 I am really struggling to find things, and its pretty early on.");
+            Console.WriteLine("#32 I really dont think 100 was necessary.");
+            Console.WriteLine("#33 I knew how to spell 'necessary' without messing it up.");
+            Console.WriteLine("#34 When I was young, I've counted up to 2000.");
+            Console.WriteLine("#35 I only did that because I was grounded.");
+            Console.WriteLine("#36 I don't really want to give childhood anecdotes and stuff right now though.");
+            Console.WriteLine("#37 My favorite color is green.");
+            Console.WriteLine("#38 I used to like purple and orange.");
+            Console.WriteLine("#39 I think living on Mars is kind of a stretch of an idea.");
+            Console.WriteLine("#40 I think self driving cars are cool.");
+            
             Console.WriteLine("#41 ");
             Console.WriteLine("#42 ");
             Console.WriteLine("#43 ");
