@@ -82,16 +82,16 @@
             Console.WriteLine("#79 I was told that's not a great thing, mostly by my wife.");
             Console.WriteLine("#80 I like to drink lemonade.");
 
-            Console.WriteLine("#81 ");
-            Console.WriteLine("#82 ");
-            Console.WriteLine("#83 ");
-            Console.WriteLine("#84 ");
-            Console.WriteLine("#85 ");
-            Console.WriteLine("#86 ");
-            Console.WriteLine("#87 ");
-            Console.WriteLine("#88 ");
-            Console.WriteLine("#89 ");
-            Console.WriteLine("#90 ");
+            Console.WriteLine("#81 I like to eat Nachos.");
+            Console.WriteLine("#82 Encanto is probably my favorite Disney movie.");
+            Console.WriteLine("#83 I don't really like Disney anyways.");
+            Console.WriteLine("#84 I like Bluey, and so do my kids.");
+            Console.WriteLine("#85 I have probably seen it a dozen times, at least playing in the background.");
+            Console.WriteLine("#86 I am getting really close to the final about me thing.");
+            Console.WriteLine("#87 I am very excited to see that the end is in sight.");
+            Console.WriteLine("#88 I used to sell Life insurance.");
+            Console.WriteLine("#89 Life insurance is boring, but also kind of interesting.");
+            Console.WriteLine("#90 I want to learn how to do a backflip.");
 
             Console.WriteLine("#91 ");
             Console.WriteLine("#92 ");
