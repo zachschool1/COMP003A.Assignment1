@@ -16,16 +16,16 @@
             Console.WriteLine("#9 I want to learn how to simulate physics");
             Console.WriteLine("#10 I am watching the Traitors season 4.");
 
-            Console.WriteLine("#11 ");
-            Console.WriteLine("#12 ");
-            Console.WriteLine("#13 ");
-            Console.WriteLine("#14 ");
-            Console.WriteLine("#15 ");
-            Console.WriteLine("#16 ");
-            Console.WriteLine("#17 ");
-            Console.WriteLine("#18 ");
-            Console.WriteLine("#19 ");
-            Console.WriteLine("#20 ");
+            Console.WriteLine("#11 I am doing this assignment while I wash the dishes.");
+            Console.WriteLine("#12 I think 100 things is kind of a lot");
+            Console.WriteLine("#13 I'm not even sure I am able to think of 100 things.");
+            Console.WriteLine("#14 I like to eat PB&J Sandwiches");
+            Console.WriteLine("#15 I don't like cooking.");
+            Console.WriteLine("#16 I like the Tampa Bay Buccaneers");
+            Console.WriteLine("#17 My Wife likes the 49ers");
+            Console.WriteLine("#18 I'm married.");
+            Console.WriteLine("#19 She made my kids 49ers fans.");
+            Console.WriteLine("#20 That's okay. I just like them to be happy");
 
             Console.WriteLine("#31 ");
             Console.WriteLine("#32 ");
