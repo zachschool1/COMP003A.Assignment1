@@ -38,16 +38,16 @@
             Console.WriteLine("#39 I think living on Mars is kind of a stretch of an idea.");
             Console.WriteLine("#40 I think self driving cars are cool.");
             
-            Console.WriteLine("#41 ");
-            Console.WriteLine("#42 ");
-            Console.WriteLine("#43 ");
-            Console.WriteLine("#44 ");
-            Console.WriteLine("#45 ");
-            Console.WriteLine("#46 ");
-            Console.WriteLine("#47 ");
-            Console.WriteLine("#48 ");
-            Console.WriteLine("#49 ");
-            Console.WriteLine("#50 ");
+            Console.WriteLine("#41 I want to learn programming to do a lot of things, but I want to learn Web Development the most.");
+            Console.WriteLine("#42 That's mostly for job searching stuff, on my free time I would want to learn the physics stuff.");
+            Console.WriteLine("#43 This is like the third time I've tried to learn how to code.");
+            Console.WriteLine("#44 I want to learn more about powershell and manipulating Windows it's self.");
+            Console.WriteLine("#45 C# was something I was interested in because of Unity.");
+            Console.WriteLine("#46 I think think that 100 is a lot.");
+            Console.WriteLine("#47 I want to continue my JavaScript learning on the side.");
+            Console.WriteLine("#48 Over the break, I make a small web page that can track some inputs and stuff.");
+            Console.WriteLine("#49 I am looking forward to learning different databases in the other classes");
+            Console.WriteLine("#50 I have a small amount of experience with MongoDB.");
 
             Console.WriteLine("#51 ");
             Console.WriteLine("#52 ");
