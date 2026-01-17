@@ -60,16 +60,16 @@
             Console.WriteLine("#59 My Mom's family has 3 dogs.");
             Console.WriteLine("#60 I like to eat waffles.");
 
-            Console.WriteLine("#61 ");
-            Console.WriteLine("#62 ");
-            Console.WriteLine("#63 ");
-            Console.WriteLine("#64 ");
-            Console.WriteLine("#65 ");
-            Console.WriteLine("#66 ");
-            Console.WriteLine("#67 ");
-            Console.WriteLine("#68 ");
-            Console.WriteLine("#69 ");
-            Console.WriteLine("#70 ");
+            Console.WriteLine("#61 I used to like to skateboard.");
+            Console.WriteLine("#62 I think when I lose some weight, I might start skateboarding again.");
+            Console.WriteLine("#63 I like to code, but it is hard to think of things to code sometimes.");
+            Console.WriteLine("#64 I want to learn how to manipulate windows on the desktop, maybe to make a game cheat or something like that.");
+            Console.WriteLine("#65 I think that it would be cool to learn how to reverse engineer stuff like games and things like that.");
+            Console.WriteLine("#66 I don't want to learn assembly or anything like that.");
+            Console.WriteLine("#67 I used C for a little bit when I was first learning, It's an interesting language that I think I would want to go back to.");
+            Console.WriteLine("#68 I like to eat apples.");
+            Console.WriteLine("#69 I think lavendar is a great scent.");
+            Console.WriteLine("#70 I began taking vitamins recently again.");
 
             Console.WriteLine("#71 ");
             Console.WriteLine("#72 ");
